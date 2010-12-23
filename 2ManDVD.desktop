@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=2mandvd -graphicssystem raster
+Icon=2ManDVD
+GenericName=2ManDVD
+Comment=Video DVD Creator
+Name=2ManDVD
+Terminal=false
+Categories=AudioVideo;DiscBurning;
+X-KDE-StartupNotify=true
